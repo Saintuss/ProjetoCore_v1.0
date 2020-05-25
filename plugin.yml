@@ -1,0 +1,5 @@
+name: Core
+version: 1.0
+main: Core\Loader
+api: [3.0.0, 4.0.0]
+authors: [JuqnGOOD, Saints]
